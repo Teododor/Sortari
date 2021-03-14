@@ -1,0 +1,98 @@
+Pentru testul 1 avem timpii :   
+
+Testul 1este testul in care: avem 1000 numere random
+
+Bubble sort a rulat in 0
+Quick sort cu pivot in mijloc a rulat in 0
+Quick sort cu pivot random a rulat in 0
+Quicksort cu mediana in 3 a rulat in 15658
+Merge sort a rulat in  0
+Count sort a rulat in 0
+Radix sort cu baza 10 a rulat in 0
+Radix sort cu baza 256 a rulat in 0
+Sotrl din STL a rulat in 0
+Sort-ul cu 2 for-uri a rulat in 0
+Pentru testul 2 avem timpii :   
+
+Testul 2este testul in care: avem 10000 numere random mai mari ca 1000000
+
+Bubble sort a rulat in 15619
+Quick sort cu pivot in mijloc a rulat in 0
+Quick sort cu pivot random a rulat in 0
+Quicksort cu mediana in 3 a rulat in 0
+Merge sort a rulat in  6545
+Count sort a rulat in 0
+Radix sort cu baza 10 a rulat in 0
+Radix sort cu baza 256 a rulat in 0
+Sotrl din STL a rulat in 0
+Sort-ul cu 2 for-uri a rulat in 0
+Pentru testul 3 avem timpii :   
+
+Testul 3este testul in care: avem 10000 numere random
+
+Bubble sort a rulat in 800322
+Quick sort cu pivot in mijloc a rulat in 89573
+Quick sort cu pivot random a rulat in 32662
+Quicksort cu mediana in 3 a rulat in 18325
+Merge sort a rulat in  295307
+Count sort a rulat in 0
+Radix sort cu baza 10 a rulat in 2053
+Radix sort cu baza 256 a rulat in 0
+Sotrl din STL a rulat in 0
+Sort-ul cu 2 for-uri a rulat in 540394
+Pentru testul 4 avem timpii :   
+
+Testul 4este testul in care: avem 50000 numere egale
+
+Bubble sort a rulat in 0
+Quick sort cu pivot in mijloc a rulat in 730397
+Quick sort cu pivot random a rulat in 740982
+Quicksort cu mediana in 3 a rulat in 730440
+Merge sort a rulat in  11525300
+Count sort a rulat in 0
+Radix sort cu baza 10 a rulat in 8050
+Radix sort cu baza 256 a rulat in 2048
+Sotrl din STL a rulat in 8044
+Sort-ul cu 2 for-uri a rulat in 5910536
+Pentru testul 5 avem timpii :   
+
+Testul 5este testul in care: avem 10000 numere random
+
+Bubble sort a rulat in 800006
+Quick sort cu pivot in mijloc a rulat in 10255
+Quick sort cu pivot random a rulat in 20508
+Quicksort cu mediana in 3 a rulat in 10219
+Merge sort a rulat in  297104
+Count sort a rulat in 0
+Radix sort cu baza 10 a rulat in 8138
+Radix sort cu baza 256 a rulat in 2027
+Sotrl din STL a rulat in 0
+Sort-ul cu 2 for-uri a rulat in 560188
+Pentru testul 6 avem timpii :   
+
+Testul 6este testul in care: avem 100000 numere random
+
+Bubble sort a rulat in 83134668
+Quick sort cu pivot in mijloc a rulat in 8476365
+Quick sort cu pivot random a rulat in 8517221
+Quicksort cu mediana in 3 a rulat in 8216035
+Merge sort a rulat in  57621166
+Count sort a rulat in 0
+Radix sort cu baza 10 a rulat in 20949
+Radix sort cu baza 256 a rulat in 7978
+Sotrl din STL a rulat in 23935
+Sort-ul cu 2 for-uri a rulat in 46081823
+Pentru testul 7 avem timpii :   
+
+Testul 7este testul in care: avem 200000 numere de tip munte, prima jumatate crescatoare, a doua jumatate descrescatoare
+
+Bubble sort a rulat in 275998670
+Quick sort cu pivot in mijloc a rulat in 42282658
+Quick sort cu pivot random a rulat in 41937417
+Quicksort cu mediana in 3 a rulat in 38915945
+Merge sort a rulat in  269821398
+Count sort a rulat in 0
+Radix sort cu baza 10 a rulat in 42442
+Radix sort cu baza 256 a rulat in 20239
+Sotrl din STL a rulat in 111291
+Sort-ul cu 2 for-uri a rulat in 136778838
